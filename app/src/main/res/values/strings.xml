@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="app_name">exchangeCurrency</string>
+    <string-array name="currency_array1">
+        <item>USD</item>
+        <item>VND</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>EURO</item>
+    </string-array>
+    <string-array name="currency_array2">
+        <item>USD</item>
+        <item>VND</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>EURO</item>
+    </string-array>
+</resources>
